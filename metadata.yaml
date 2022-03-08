@@ -1,0 +1,42 @@
+_repo: A-Handbook-of-Cookery-for-a-Small-House_67482
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+creator:
+  author:
+    agent_name: Conrad, Jessie
+    alias: Conrad, Jessie George
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '53932'
+    url: http://www.gutenberg.org/2009/agents/53932
+description: ''
+gutenberg_issued: '2022-02-23'
+identifiers:
+  gutenberg: '67482'
+language: en
+pgterms:marc904: https://archive.org/details/handbookofcooker00conr/page/n9/mode/2up
+pgterms:marc905: 20200915214834conrad
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :William Heinemann, Ltd.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Handbook of Cookery for a Small House
+url: http://www.gutenberg.org/ebooks/67482
