@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '125'
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+covers:
+- cover_type: archival
+  image_path: 67482-h/images/cover.jpg
 creator:
   author:
     agent_name: Conrad, Jessie
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '53932'
     url: http://www.gutenberg.org/2009/agents/53932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67482#A-Handbook-of-Cookery-for-a-Small-House
 gutenberg_issued: '2022-02-23'
 identifiers:
   gutenberg: '67482'
